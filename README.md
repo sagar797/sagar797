@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Django, AWS and Mongo**
+- 🌱 I’m currently learning and working on **Angular, Django, AWS and Mongo**
 
 - 👨‍💻 All of my projects are available at [https://sagar797.github.io/Portfolio/](https://sagar797.github.io/Portfolio/)
 
